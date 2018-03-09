@@ -1,0 +1,6 @@
+.DS_store
+/node_modules
+.data
+public/dist/
+.env.test
+.env.development
